@@ -1,0 +1,5 @@
+The application is already pushed on the repository sentimentanalyzer of the user "croakin" on docker hub.
+The application run on the port 80:80 by default.
+To pull and run the docker image on your machine :
+
+sudo docker run -p 80:80 croakin/sentimentanalyzer:1.0
